@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\49234180879\\Desktop\\C\u002B\u002B\\funcoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A33C-09CD-434B-A0D0-AEE6CBAC8880}|funcoes\\funcoes.vcxproj|C:\\Users\\49234180879\\Desktop\\C\u002B\u002B\\funcoes\\funcoes\\funcoes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D50A33C-09CD-434B-A0D0-AEE6CBAC8880}|funcoes\\funcoes.vcxproj|solutionrelative:funcoes\\funcoes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "funcoes.cpp",
+              "DocumentMoniker": "C:\\Users\\49234180879\\Desktop\\C\u002B\u002B\\funcoes\\funcoes\\funcoes.cpp",
+              "RelativeDocumentMoniker": "funcoes\\funcoes.cpp",
+              "ToolTip": "C:\\Users\\49234180879\\Desktop\\C\u002B\u002B\\funcoes\\funcoes\\funcoes.cpp",
+              "RelativeToolTip": "funcoes\\funcoes.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T16:53:10.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
